@@ -22,3 +22,9 @@ The dataset used for this analysis is sourced from the NYC Taxi and Limousine Co
 ## Data Model
 
 ![Model databases](https://github.com/ganeshs0504/nyc-taxi-analysis/assets/145580150/7eadaf61-0797-49ec-a41f-9c3001d83100)
+
+## Data Insights
+
+![NYC_taxi_dashboard_page-0001](https://github.com/ganeshs0504/nyc-taxi-analysis/assets/145580150/2c3fd699-0402-4db4-85d3-93c869542a17)
+
+[NYC_taxi_dashboard.pdf](https://github.com/user-attachments/files/15594017/NYC_taxi_dashboard.pdf)
